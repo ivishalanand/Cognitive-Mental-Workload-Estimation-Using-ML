@@ -142,7 +142,7 @@ software and hardware toolkits.
 Level-1 Data - Contains csv for the EEG readings of 8 subjects for task 1
 Level-2 Data - Contains csv for the EEG readings of 8 subjects for task 2
 Level-3 Data - Contains csv for the EEG readings of 8 subjects for task 3
-BTP_Code.ipynb - Contains the project code.
+BTP_Code.ipynb - Contains the project code
 Normalsiedfeatures.csv - contains the data after applying Force Algorithm
 features.csv - Contains the fully feature engineered dataset of the EEG signals
 ```
